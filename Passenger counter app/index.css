@@ -1,0 +1,57 @@
+body{
+    background-image:url(stars.jpg);
+    background: cover; 
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.container {
+    background-color:seashell; 
+    margin: 17% 25%;
+    padding: 15px 10px;
+    border-radius: 15%;
+    border: 3px solid royalblue;
+    
+}
+
+h1{
+  margin-top: 15%;
+  font-size: 60px;
+  
+}
+
+h2{
+    font-size: 140px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    font-size: 50px;
+    font-weight: bold;
+    width: 250px;
+    margin-top: 3%;
+    margin-bottom: 30px;
+    border-radius: 15px;  
+    cursor:pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#increment-btn {
+    background: pink;
+}
+
+#save-btn {
+    background-color: dodgerblue;
+}
+
+p{
+    font-size: 25px;
+    font-weight: bold;
+    
+}
